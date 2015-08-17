@@ -1,0 +1,76 @@
+	html{
+		background-color: black;
+		height:100%;
+	}
+
+	body{
+		background-color: black;
+		width:75%;
+		min-height: 100%;
+		margin:0 auto;
+		padding: 0 20px; 
+		font-family: league gothic;
+		color: #FF1493;
+
+	}
+
+	nav{
+		background-color: black;
+		border-radius: 5px; 
+		width:100%;
+		margin: 0 auto;
+		text-align: center;
+		
+	}
+
+	a{
+		color: #FF1493;
+		text-decoration: underline
+		padding: 5px;
+	}
+
+	a:hover { 
+
+		background-color: blue;
+	}
+
+
+	h1{
+		color: black;
+		text-align: center;
+		background-color: #FF1493;
+		line-height: 70px
+
+	}
+
+
+	h2{
+		background-color: blue;
+		color: #FF1493;
+		text-align: left;
+		line-height: 100px
+
+	}
+
+	p{
+		background-color: blue;
+		word-spacing: 2px;
+		line-height: 70px
+
+	}
+
+	img{
+
+		width: 30%;
+		height: auto;
+		float: right;
+		margin: 0 0 10px 10px;
+
+	}
+
+	footer{
+
+		background-color: blue;
+		line-height: 70px
+		
+	}
